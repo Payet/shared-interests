@@ -1,5 +1,7 @@
 package com.lacaze.shared;
 
+import com.lacaze.shared.pages.HomePage;
+import com.lacaze.shared.pages.WicketApplication;
 import org.apache.wicket.util.tester.WicketTester;
 import org.junit.Before;
 import org.junit.Test;

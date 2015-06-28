@@ -11,4 +11,6 @@ public interface InterestsLister {
 
 
     Collection<Interest> listAll() ;
+    void addInterest(Interest interest);
+    Interest findByName(String name);
 }

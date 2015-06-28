@@ -1,4 +1,4 @@
-package com.lacaze.shared;
+package com.lacaze.shared.pages;
 
 import org.apache.wicket.request.mapper.parameter.PageParameters;
 import org.apache.wicket.markup.html.basic.Label;
